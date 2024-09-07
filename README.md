@@ -23,6 +23,7 @@ The following machine learning model is implemented and evaluated in this projec
 - **Basic_linear_regression.ipynb**: Jupyter notebook for exploratory data analysis (EDA) and model training.
 - **Dockerfile**: Dockerfile for containerizing the project.
 - **compose.yml**: Docker Compose file for orchestrating the project's containers.
+- **.gitignore**: Specifies files and folders to be ignored by Git.
 
 ## Installation
 
