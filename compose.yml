@@ -8,6 +8,6 @@ services:
             - JUPYTER_TOKEN=iambatman
         volumes:
             - ./:/home/jovyan
-...
+....
 
 
