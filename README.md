@@ -1,4 +1,4 @@
-# Project Weight-Height with Linear Regression
+# Project Weight-Height predict with Linear Regression
 
 ## Overview
 
